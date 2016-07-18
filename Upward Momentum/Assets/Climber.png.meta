@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: ef40aa34c3f2707448837f52d999093c
+timeCreated: 1468240698
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Climber_Body
+    21300002: Climber_Head
+    21300004: Climber_Arm1
+    21300006: Climber_Arm2
+    21300008: Climber_LegR
+    21300010: Climber_LegL
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Climber_Body
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Climber_Head
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Climber_Arm1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 17
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25642452, y: 0.76225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Climber_Arm2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 33
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.14564426, y: 0.7458594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Climber_LegR
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.30590057, y: 0.80020714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Climber_LegL
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4539914, y: 0.7661935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
